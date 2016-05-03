@@ -1,4 +1,3 @@
-# GOT
 <html>
 <head>
 <title> Game Of Thrones </title>
